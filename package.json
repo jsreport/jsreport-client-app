@@ -1,0 +1,16 @@
+{
+  "name": "jsreport-client-app",
+  "version": "0.0.1",
+  "description": "jsreport extension containing small consumer application for browsing reports ",
+  "scripts": {},
+  "keywords": [
+    "jsreport",
+    "client"
+  ],
+  "license": "LGPL",
+  "dependencies": {
+    "string": "^3.3.1"
+  },
+  "author": "Jan Blaha",
+  "devDependencies": {}
+}
