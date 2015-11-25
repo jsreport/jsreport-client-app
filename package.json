@@ -7,9 +7,14 @@
     "jsreport",
     "client"
   ],
+  "homepage": "https://github.com/jsreport/jsreport-client-app",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jsreport/jsreport-client-app.git"
+  },
   "license": "LGPL",
   "dependencies": {
-    "string": "^3.3.1"
+    "string": "3.3.1"
   },
   "author": "Jan Blaha",
   "devDependencies": {}
