@@ -1,6 +1,6 @@
 {
   "name": "jsreport-client-app",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "jsreport extension containing small consumer application for browsing reports ",
   "scripts": {},
   "keywords": [
