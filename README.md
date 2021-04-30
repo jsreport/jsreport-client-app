@@ -1,4 +1,4 @@
-**DEPRECATED - THIS EXTENSION ISN'T MAINTAINED AND DOESN'T WORK WITH LATEST JSREPORT**
+**DEPRECATED - THIS EXTENSION ISN'T MAINTAINED AND DOESN'T WORK WITH THE LATEST JSREPORT**
 
 # jsreport-client-app
 > jsreport extension containing small consumer application for browsing reports
